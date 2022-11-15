@@ -17,6 +17,7 @@ The repo includes a GitHub Action that will build the website automatically when
 
 * Turn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and root directory.
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png">
+![OysterFarm](https://user-images.githubusercontent.com/67389727/202013628-a9b32739-cbb2-4606-b358-ef575b7934f3.jpg)
 
 * Turn on GitHub Actions under Settings > Actions > General
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/2545978/196808404-0c075fcf-db03-4516-88dd-3143b9fca475.png">
