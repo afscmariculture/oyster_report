@@ -1,4 +1,5 @@
 Website: https://afscmariculture.github.io/oyster_report/
+![OysterFarm](https://user-images.githubusercontent.com/67389727/202013935-d9c43074-1aa5-441f-b148-88bca1007ef3.jpg)
 
 [![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4771757) *Try without installing anything. Make sure to click the Make a Copy button or you will lose all your changes.*
  
@@ -16,8 +17,6 @@ The repo includes a GitHub Action that will build the website automatically when
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/2545978/197051535-c43c62de-17e8-40bf-a536-3eea8db250c4.png">
 
 * Turn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and root directory.
-<img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png">
-![OysterFarm](https://user-images.githubusercontent.com/67389727/202013628-a9b32739-cbb2-4606-b358-ef575b7934f3.jpg)
 
 * Turn on GitHub Actions under Settings > Actions > General
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/2545978/196808404-0c075fcf-db03-4516-88dd-3143b9fca475.png">
