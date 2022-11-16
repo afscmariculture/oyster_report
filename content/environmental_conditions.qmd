@@ -5,7 +5,14 @@ title: Environmental Conditions
 ## Summary Statistics
 
 Table 1. Summary statistics (minimum, mean, and maximum) of air temperature, water temperature at 1 and 5 meters, and salinity at 1 and 5 meters from October 2018 to October 2022.
-![](https://user-images.githubusercontent.com/67389727/202310357-8618bd7b-cd16-4a92-8490-8cafc1b27188.png)
+
+| Variable                 | Min. | Mean | Max. |
+|:------------------------:|:----:|:----:|:----:|
+| Air Temperature (C)      | -3.8 | 10.9 | 24.4 |
+| 1m Water Temperature (C) |  3.4 | 10.3 | 18.2 |
+| 5m Water Temperature (C) |  3.4 |  9.8 | 15.5 |
+| 1m Salinity (ppt)        |  5.0 | 20.8 | 34.0 |
+| 5m Salinity (ppt)        | 11.5 | 23.7 | 36.0 |
 
 ## Timeseries
 
