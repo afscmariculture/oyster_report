@@ -39,7 +39,7 @@
     "href": "content/environmental_conditions.html",
     "title": "Environmental Conditions",
     "section": "",
-    "text": "[Table 1. Summary statistics (minimum, mean, and maximum) of air temperature, water temperature at 1 and 5 meters, and salinity at 1 and 5 meters from October 2018 to October 2022.] | Variable | Min. | Mean | Max. | |————————–|——|——|——| | Air Temperature (C) | -3.8 | 10.9 | 24.4 | | 1m Water Temperature (C) | 3.4 | 10.3 | 18.2 | | 5m Water Temperature (C) | 3.4 | 9.8 | 15.5 | | 1m Salinity (ppt) | 5.0 | 20.8 | 34.0 | | 5m Salinity (ppt) | 11.5 | 23.7 | 36.0 |"
+    "text": "Table 1. Summary statistics (minimum, mean, and maximum) of air temperature, water temperature at 1 and 5 meters, and salinity at 1 and 5 meters from October 2018 to October 2022. | Variable | Min. | Mean | Max. | |————————–|——|——|——| | Air Temperature (C) | -3.8 | 10.9 | 24.4 | | 1m Water Temperature (C) | 3.4 | 10.3 | 18.2 | | 5m Water Temperature (C) | 3.4 | 9.8 | 15.5 | | 1m Salinity (ppt) | 5.0 | 20.8 | 34.0 | | 5m Salinity (ppt) | 11.5 | 23.7 | 36.0 |"
   },
   {
     "objectID": "content/environmental_conditions.html#timeseries",
