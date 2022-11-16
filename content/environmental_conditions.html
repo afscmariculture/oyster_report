@@ -130,7 +130,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#summary-statistics" id="toc-summary-statistics" class="nav-link active" data-scroll-target="#summary-statistics">Summary Statistics</a></li>
+  <li><a href="#timeseries" id="toc-timeseries" class="nav-link" data-scroll-target="#timeseries">Timeseries</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/afscmariculture/oyster_report.git/edit/main/content/environmental_conditions.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/afscmariculture/oyster_report.git/blob/main/content/environmental_conditions.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/afscmariculture/oyster_report.git/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -152,6 +159,14 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="summary-statistics" class="level2">
+<h2 class="anchored" data-anchor-id="summary-statistics">Summary Statistics</h2>
+<p>library(reactable)</p>
+<p>df &lt;- tibble( Variable = c(“Air Temperature (°C)”, “1m Water Temperature (°C)”, “5m Water Temperature (°C)”, “1m Salinity (ppt)”, “5m Salinity (ppt)”), Min. = c(“-3.8”, “3.4”, “3.4”, “5.0”, “11.5”), Mean = c(“10.9”, “10.3”, “9.8”, “20.8”, “23.7”), Max. = c(“24.4.”, “18.2”, “15.5”, “34.0”, “36.0”) )</p>
+<p>reactable(df)</p>
+</section>
+<section id="timeseries" class="level2">
+<h2 class="anchored" data-anchor-id="timeseries">Timeseries</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://user-images.githubusercontent.com/67389727/202300773-93ae947a-ebc4-4e0b-9270-74e64c404fce.jpg" class="img-fluid figure-img"></p>
@@ -166,6 +181,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
