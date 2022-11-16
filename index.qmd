@@ -22,7 +22,7 @@ Mariculture is a rapidly growing industry in Alaska, with farmed Pacific oysters
 
 As part of an ongoing HAB monitoring project, water column and oyster tissue sampling occurs weekly from March to October, and monthly from November to February, at a local oyster farm in Juneau, Alaska. This project is funded by the [NOAA Office of Aquaculture](https://www.fisheries.noaa.gov/about/office-aquaculture), and collaborators include staff at the [NOAA Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center), [Alaska Sea Grant State Fellows](https://alaskaseagrant.org/education/awards-fellowships/state-fellowship/), students at the [University of Alaska Fairbanks College of Fisheries and Ocean Sciences](https://www.uaf.edu/cfos/), [NOAA Hollings Scholars](https://www.noaa.gov/office-education/hollings-scholarship), and the owner and employees of the oyster farm, [Salty Lady Seafood](https://www.saltyladyseafood.co/). 
 
-Data have been collected since 2018, and the following data are collected:
+Data have been collected since 2018, and include the following:
 
 * Water column parameters (temperature, salinity, nutrient concentrations, and chlorophyll levels) at 1 meter and 5 meter depths
 * Environmental conditions (season, air temperature, weather, tide height, and wind speed and direction)
