@@ -20,13 +20,14 @@ page-layout: full
 
 Mariculture is a rapidly growing industry in Alaska, with farmed Pacific oysters (*Magallana gigas*) currently significantly contributing to this industry’s profit. However, there are no wild oysters in Alaska and the high-latitude estuarine environment of southeast Alaska differs greatly from many other areas in the country where oysters are currently farmed. Therefore, it is important to determine environmental factors that influence oyster health to optimize growing conditions at existing oyster farms and to aid in site selection for future farms as the industry grows. Another challenge associated with farmed oysters is harmful algal blooms (HABs), with paralytic shellfish poisoning (PSP) from *Alexandrium spp.* diatoms being of particular concern for public health in the region. Determining which factors contribute most strongly to the health of farmed oysters, as well as to toxin levels in oyster tissue, is critical in allowing oyster mariculture to expand in a safe and profitable way in southeast Alaska. 
 
-As part of an ongoing HAB monitoring project, water column and oyster tissue sampling occurs weekly from March to October, and monthly from November to February, at a local oyster farm in Juneau, Alaska. This project is funded by the NOAA Office of Aquaculture, and collaborators include staff at the NOAA Alaska Fisheries Science Center, Alaska Sea Grant State Fellows, students at the University of Alaska Fairbanks College of Fisheries and Ocean Sciences, NOAA Hollings Scholars, and the owner and employees of the oyster farm, Salty Lady Seafood. 
+As part of an ongoing HAB monitoring project, water column and oyster tissue sampling occurs weekly from March to October, and monthly from November to February, at a local oyster farm in Juneau, Alaska. This project is funded by the [NOAA Office of Aquaculture](https://www.fisheries.noaa.gov/about/office-aquaculture), and collaborators include staff at the [NOAA Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center), [Alaska Sea Grant State Fellows](https://alaskaseagrant.org/education/awards-fellowships/state-fellowship/), students at the [University of Alaska Fairbanks College of Fisheries and Ocean Sciences](https://www.uaf.edu/cfos/), [NOAA Hollings Scholars](https://www.noaa.gov/office-education/hollings-scholarship), and the owner and employees of the oyster farm, [Salty Lady Seafood](https://www.saltyladyseafood.co/). 
 
-Data has been collected since 2018, and the following data are collected:
+Data have been collected since 2018, and the following data are collected:
 
-Temperature, salinity, nutrient concentrations, chlorophyll levels, PSP toxin levels, and phytoplankton community composition are measured at two water column depths. Additionally, oyster tissue is analyzed for PSP toxin levels, as well as for lipid content and fatty acid composition as indicators of oyster health. 
-
-* Water column parameters...
-* 
+* Water column parameters (temperature, salinity, nutrient concentrations, and chlorophyll levels) at 1 meter and 5 meter depths
+* Environmental conditions (season, air temperature, weather, tide height, and wind speed and direction)
+* PSP toxin levels in oyster tissue and in the water column at 1 and 5 meters
+* Lipid content and fatty acid composition in oyster tissue
+* Phytoplankton community composition via a plankton net tow and phytoplankton counts in water samples from 1 and 5 meters
 
 ![Pacific oysters, *Magallana gigas*](https://user-images.githubusercontent.com/67389727/202273814-41a666b1-8423-45ca-b27c-0ee644c149a3.png)
