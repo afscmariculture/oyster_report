@@ -12,20 +12,20 @@ website:
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; CC-1.0"
-  
   sidebar:
     background: "#D9E3E4"
     logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    
     favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center
+        text: "NOAA Alaska Fisheries Science Center"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/afscmariculture
+        text: "AFSC Mariculture Team"
 
     style: "docked"
     search: true
@@ -33,16 +33,12 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
+      - href: content/environmental_conditions.qmd
+        text: Environmental Conditions
+      - href: content/phytoplankton.qmd
+        text: Phytoplankton Community Composition
+      - href: content/oysters.qmd
+        text: Oyster Health and Toxicity
       - href: content/acknowledgements.qmd
         text: Acknowledgements
 
