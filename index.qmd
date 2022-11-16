@@ -30,4 +30,4 @@ The following data is collected:
 
 [Oyster Health and Toxicity](https://afscmariculture.github.io/oyster_report/content/oysters.html)
 
-![Pacific oysters, *Magallana gigas*](https://user-images.githubusercontent.com/67389727/202267118-43e3d083-46d2-456c-99bf-11bf3aae7160.png)
+![Pacific oysters, *Magallana gigas*](https://user-images.githubusercontent.com/67389727/202271165-b3f20bf3-12bb-4e64-ba95-2e0ce79c2b49.png)
