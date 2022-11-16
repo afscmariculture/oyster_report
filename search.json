@@ -26,5 +26,12 @@
     "title": "Acknowledgments",
     "section": "",
     "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+  },
+  {
+    "objectID": "content/environmental_conditions.html",
+    "href": "content/environmental_conditions.html",
+    "title": "Environmental Conditions",
+    "section": "",
+    "text": "Figure 2. Timeseries from October, 2018 to October, 2022 of water temperature and salinity at 1m (A) and 5m (B)."
   }
 ]
