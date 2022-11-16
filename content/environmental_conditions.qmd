@@ -2,4 +2,4 @@
 title: Environmental Conditions
 ---
 
-
+![Figure 2. Timeseries from October, 2018 to October, 2022 of water temperature and salinity at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/202297622-f81d6c22-398d-40e4-bc84-a960508cff75.jpg)
