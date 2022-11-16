@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Long-term Monitoring at a Southeast Alaska Oyster Farm",
     "section": "",
-    "text": "!(https://user-images.githubusercontent.com/67389727/202021491-eaab6787-8f69-4a5c-9bfd-a22e9fff4e4b.jpg) Salty Lady Seafood oyster farm in Juneau, AK\nThis is a template for a simple Quarto website that looks like a “book”. This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to theme.scss. The webpage will be on the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nThe following data is collected:"
+    "text": "Salty Lady Seafood oyster farm in Juneau, AK\nThis is a template for a simple Quarto website that looks like a “book”. This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to theme.scss. The webpage will be on the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nThe following data is collected:"
   },
   {
     "objectID": "index.html#table-of-contents",
