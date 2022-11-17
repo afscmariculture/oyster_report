@@ -29,7 +29,7 @@ names <- c(
   "Chaetoceros"
   )
   
-slickR(obj=paths, height = 500, width = "75%") %synch%
+slickR(obj=paths, height = 300, width = "75%") %synch%
 ( slickR(obj=names, slideType = 'p') + settings(arrows = FALSE) )
 
 ```
