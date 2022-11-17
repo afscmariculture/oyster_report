@@ -3,3 +3,20 @@ title: Phytoplankton Community Composition
 ---
 
 ![Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/202526966-c4b87ba3-93a6-4d99-bfde-477fc5064384.jpg)
+
+```{r echo=FALSE} 
+
+install.packages("slickR")
+library(slickR)
+
+paths <- c(
+  "https://user-images.githubusercontent.com/67389727/202547401-8a69120b-14dc-4bd3-8d75-3ca8eebe71b9.jpg",
+  "https://user-images.githubusercontent.com/67389727/202547412-eec82fbe-dacc-4722-a4bb-9da32649ac1d.jpg",
+  "https://user-images.githubusercontent.com/67389727/202547418-bcd8aa90-58ef-4e48-9c60-4af5140cad0a.jpg",
+  "https://user-images.githubusercontent.com/67389727/202547434-c31f0f85-ae9f-437e-b10a-7beb6d3b2fe9.jpg",
+  "https://user-images.githubusercontent.com/67389727/202547453-72d50fa5-ddce-4cdb-912d-a7f8e95fb0eb.jpg"
+)
+
+slickR(obj=paths)+ 
+  settings(dots = TRUE)
+```
