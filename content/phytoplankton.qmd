@@ -18,14 +18,14 @@ paths <- c(
 )
 
 names <- c(
-  "Thalassiosira",
-  "Ceratium longipes, Dinophysis, & Pseudo-nitzschia",
-  "Leptocylindrus",
-  "Pseudo-nitzschia",
-  "Chaetoceros"
+  "*Thalassiosira*",
+  "*Ceratium longipes, Dinophysis, & Pseudo-nitzschia*",
+  "_Leptocylindrus_",
+  "*Pseudo-nitzschia*",
+  "*Chaetoceros*"
   )
   
-slickR(obj=paths, height = 100, width = "95%") %synch%
+slickR(obj=paths, height = 200, width = "75%") %synch%
 ( slickR(obj=names, slideType = 'p') + settings(arrows = FALSE) )
 
 ```
