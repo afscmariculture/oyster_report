@@ -4,10 +4,14 @@ title: Phytoplankton Community Composition
 
 ![Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/202526966-c4b87ba3-93a6-4d99-bfde-477fc5064384.jpg)
 
-```{r echo=FALSE} 
+```{r setup, include=FALSE}
 
 install.packages("slickR")
 library(slickR)
+
+```
+
+```{r echo=FALSE} 
 
 paths <- c(
   "https://user-images.githubusercontent.com/67389727/202547401-8a69120b-14dc-4bd3-8d75-3ca8eebe71b9.jpg",
@@ -18,14 +22,14 @@ paths <- c(
 )
 
 names <- c(
-  "*Thalassiosira*",
-  "*Ceratium longipes, Dinophysis, & Pseudo-nitzschia*",
-  "_Leptocylindrus_",
-  "*Pseudo-nitzschia*",
-  "*Chaetoceros*"
+  "Thalassiosira",
+  "Ceratium longipes, Dinophysis, & Pseudo-nitzschia",
+  "Leptocylindrus",
+  "Pseudo-nitzschia",
+  "Chaetoceros"
   )
   
-slickR(obj=paths, height = 200, width = "75%") %synch%
+slickR(obj=paths, height = 500, width = "75%") %synch%
 ( slickR(obj=names, slideType = 'p') + settings(arrows = FALSE) )
 
 ```
