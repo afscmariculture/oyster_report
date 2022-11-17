@@ -17,6 +17,15 @@ paths <- c(
   "https://user-images.githubusercontent.com/67389727/202547453-72d50fa5-ddce-4cdb-912d-a7f8e95fb0eb.jpg"
 )
 
-slickR(obj=paths)+ 
-  settings(dots = TRUE)
+names <- c(
+  "Thalassiosira",
+  "Ceratium longipes, Dinophysis, & Pseudo-nitzschia",
+  "Leptocylindrus",
+  "Pseudo-nitzschia",
+  "Chaetoceros"
+  )
+  
+slickR(obj=paths, height = 100, width = "95%") %synch%
+( slickR(obj=names, slideType = 'p') + settings(arrows = FALSE) )
+
 ```
