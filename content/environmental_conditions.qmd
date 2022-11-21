@@ -19,3 +19,5 @@ Table 1. Summary statistics (minimum, mean, and maximum) of air temperature, wat
 ![Figure 1. Timeseries from October 2018 to October 2022 of air temperature (&deg;C), with points colored by weather.](https://user-images.githubusercontent.com/67389727/202300773-93ae947a-ebc4-4e0b-9270-74e64c404fce.jpg)
 
 ![Figure 2. Timeseries from October 2018 to October 2022 of water temperature (&deg;C) and salinity (ppt) at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/202297622-f81d6c22-398d-40e4-bc84-a960508cff75.jpg)
+
+![Figure 3. Timeseries from October 2018 to December 2021 of nutrients, Nitrite and Phosphate (uM), at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203180157-9a0beaff-ed17-4d23-8644-652ac62c846e.jpg)
