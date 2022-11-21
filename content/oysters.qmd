@@ -2,4 +2,4 @@
 title: Oyster Health and Toxicity
 ---
 
-![Figure 4. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May 2022 to October 2022.](https://user-images.githubusercontent.com/67389727/202308224-f1360c2d-8023-4670-b195-d01be4178337.jpg)
+![Figure 5. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May 2022 to October 2022.](https://user-images.githubusercontent.com/67389727/202308224-f1360c2d-8023-4670-b195-d01be4178337.jpg)
