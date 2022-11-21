@@ -2,7 +2,7 @@
 title: Phytoplankton Community Composition
 ---
 
-![Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203178003-84e3bc3e-c428-4292-8988-b758f53da1ea.jpg)
+![Figure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203178003-84e3bc3e-c428-4292-8988-b758f53da1ea.jpg)
 
 ```{r setup, include=FALSE}
 
