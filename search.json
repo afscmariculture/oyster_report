@@ -53,6 +53,6 @@
     "href": "content/acknowledgements.html",
     "title": "Acknowledgments",
     "section": "",
-    "text": "This website was generated based on the NOAA-quarto-simple template from [NMFS Open Science] (https://github.com/nmfs-opensci), with that repo and GitHub Action based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+    "text": "This website was generated from the NOAA-quarto-simple template from NMFS Open Science, which was based on the Openscapes quarto-website-tutorial."
   }
 ]
