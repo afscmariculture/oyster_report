@@ -4,14 +4,18 @@ title: Phytoplankton Community Composition
 
 ## Overview 
 
+Phytoplankton community composition varies seasonally, with blooms typically occurring in summer months. Peaks in chlorophyll-a levels tend to align with these summer blooms (Figure 3). Overall, phytoplankton biomass is higher at 5m (Figure 3B) than at 1m (Figure 3A). In 2021 and 2022, the five most abundant phytoplankton genera were *Chaetoceros*, *Pseudo-nitzschia*, *Skeletonema*, *Thalassionema*, and *Thalassiosira* (Figure 3). 
+
 ![Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January 2021 to July 2022, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203178003-84e3bc3e-c428-4292-8988-b758f53da1ea.jpg)
 
 ## Impact of Nutrient Levels 
+
+Nutrient data (nitrite and phosphate levels in uM) are only available for 2021 at this time. Nitrite levels are lower during and after summer blooms (Figure 4); while phosphate levels are more variable, they are also slightly lower during and after summer blooms (Figure 5). Some variation in phytoplankton community composition is also explained by nutrient levels. Nitrite levels significantly contribute to variation in phytoplankton community composition at 1m (p=0.001) and 5m (p<0.05) along NMDS2 (Figure 6), while phosphate is not significant (Figure 7).
 
 ![Figure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203613957-a0a160c9-323a-4723-aac0-06bc15ab31af.jpg)
 
 ![Figure 5. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with phosphate levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203613976-c5a5c0c9-d751-4baa-8f0f-aafc1a12e7ad.jpg)
 
-![Figure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.](https://user-images.githubusercontent.com/67389727/203446752-027c744e-4d92-4984-b705-d7f84a86fc0e.jpg)
+![Figure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.](https://user-images.githubusercontent.com/67389727/203651393-9eec285d-fbc9-4252-9536-65d1ba38ae94.jpg)
 
-![Figure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date.](https://user-images.githubusercontent.com/67389727/203446758-4e3a71a9-8a1f-453c-851a-0522f20209d5.jpg)
+![Figure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date.](https://user-images.githubusercontent.com/67389727/203651416-b5d5b337-146b-4dea-a570-297f476266fd.jpg)
