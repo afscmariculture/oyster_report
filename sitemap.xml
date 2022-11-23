@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://afscmariculture.github.io/oyster_report/index.html</loc>
-    <lastmod>2022-11-23T00:36:14.509Z</lastmod>
-  </url>
-  <url>
     <loc>https://afscmariculture.github.io/oyster_report/content/phytoplankton.html</loc>
-    <lastmod>2022-11-23T00:36:39.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://afscmariculture.github.io/oyster_report/content/oysters.html</loc>
-    <lastmod>2022-11-23T00:36:40.352Z</lastmod>
+    <lastmod>2022-11-23T00:56:26.853Z</lastmod>
   </url>
   <url>
     <loc>https://afscmariculture.github.io/oyster_report/content/environmental_conditions.html</loc>
-    <lastmod>2022-11-23T00:36:40.704Z</lastmod>
+    <lastmod>2022-11-23T00:56:28.025Z</lastmod>
+  </url>
+  <url>
+    <loc>https://afscmariculture.github.io/oyster_report/content/oysters.html</loc>
+    <lastmod>2022-11-23T00:56:28.413Z</lastmod>
   </url>
   <url>
     <loc>https://afscmariculture.github.io/oyster_report/content/acknowledgements.html</loc>
-    <lastmod>2022-11-23T00:36:41.040Z</lastmod>
+    <lastmod>2022-11-23T00:56:28.761Z</lastmod>
+  </url>
+  <url>
+    <loc>https://afscmariculture.github.io/oyster_report/index.html</loc>
+    <lastmod>2022-11-23T00:56:29.181Z</lastmod>
   </url>
 </urlset>
