@@ -39,14 +39,14 @@
     "href": "content/environmental_conditions.html",
     "title": "Environmental Conditions",
     "section": "",
-    "text": "Table 1. Summary statistics (minimum, mean, and maximum) of air temperature, water temperature at 1 and 5 meters, and salinity at 1 and 5 meters from October 2018 to October 2022.\n\n\n\nVariable\nMin.\nMean\nMax.\n\n\n\n\nAir Temperature (C)\n-3.8\n10.9\n24.4\n\n\n1m Water Temperature (C)\n3.4\n10.3\n18.2\n\n\n5m Water Temperature (C)\n3.4\n9.8\n15.5\n\n\n1m Salinity (ppt)\n5.0\n20.8\n34.0\n\n\n5m Salinity (ppt)\n11.5\n23.7\n36.0"
+    "text": "Table 1. Summary statistics (minimum, mean, and maximum) of air temperature (°C), water temperature (°C) at 1 and 5 meters, and salinity (ppt) at 1 and 5 meters from October 2018 to October 2022.\n\n\n\nVariable\nMinimum\nMean\nMaximum\n\n\n\n\nAir Temperature (C)\n-3.8\n10.9\n24.4\n\n\n1m Water Temperature (C)\n3.4\n10.3\n18.2\n\n\n5m Water Temperature (C)\n3.4\n9.8\n15.5\n\n\n1m Salinity (ppt)\n5.0\n20.8\n34.0\n\n\n5m Salinity (ppt)\n11.5\n23.7\n36.0"
   },
   {
-    "objectID": "content/environmental_conditions.html#timeseries",
-    "href": "content/environmental_conditions.html#timeseries",
+    "objectID": "content/environmental_conditions.html#seasonal-variation",
+    "href": "content/environmental_conditions.html#seasonal-variation",
     "title": "Environmental Conditions",
-    "section": "Timeseries",
-    "text": "Timeseries\n\n\n\nFigure 1. Timeseries from October 2018 to October 2022 of air temperature (°C), with points colored by weather.\n\n\n\n\n\nFigure 2. Timeseries from October 2018 to October 2022 of water temperature (°C) and salinity (ppt) at 1m (A) and 5m (B)."
+    "section": "Seasonal Variation",
+    "text": "Seasonal Variation\n\n\n\nFigure 1. Timeseries from October 2018 to October 2022 of air temperature (°C), with points colored by weather.\n\n\n\n\n\nFigure 2. Timeseries from October 2018 to October 2022 of water temperature (°C) and salinity (ppt) at 1m (A) and 5m (B)."
   },
   {
     "objectID": "content/acknowledgements.html",
