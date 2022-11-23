@@ -11,14 +11,16 @@ Environmental conditions are monitored at Salty Lady Seafood, an oyster farm in 
 Table 1. Summary statistics (minimum, mean, and maximum) of air temperature (&deg;C), water temperature (&deg;C) at 1 and 5 meters, and salinity (ppt) at 1 and 5 meters from October 2018 to October 2022.
 
 | Variable                 | Minimum | Mean | Maximum |
-|--------------------------|---------|------|---------|
+|--------------------------|:-------:|:----:|:-------:|
 | Air Temperature (C)      |  -3.8   | 10.9 |   24.4  |
 | 1m Water Temperature (C) |   3.4   | 10.3 |   18.2  |
 | 5m Water Temperature (C) |   3.4   |  9.8 |   15.5  |
 | 1m Salinity (ppt)        |   5.0   | 20.8 |   34.0  |
-| 5m Salinity (ppt)        | 11.5    | 23.7 |   36.0  |
+| 5m Salinity (ppt)        |  11.5   | 23.7 |   36.0  |
 
 ## Seasonal Variation
+
+Environmental variation at Bridget Cove follows seasonal patterns. Air temperatures are lower in winter and higher in summer, with weather remaining variable throughout the year (Figure 1). Similar to air temperature, water temperature at both 1 and 5 meters is lower in winter and higher in summer (Figure 2). Salinity follows the opposite pattern; salinity is lower in the summer due to high rainfall and glacial runoff, and higher in the winter when many of the freshwater input sources are frozen (Figure 2). 
 
 ![Figure 1. Timeseries from October 2018 to October 2022 of air temperature (&deg;C), with points colored by weather.](https://user-images.githubusercontent.com/67389727/203622684-35b1d6dd-bc4a-4db2-8def-c4606c2e8ea3.jpg)
 
