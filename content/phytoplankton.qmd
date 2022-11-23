@@ -2,7 +2,11 @@
 title: Phytoplankton Community Composition
 ---
 
-![Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203178003-84e3bc3e-c428-4292-8988-b758f53da1ea.jpg)
+## Overview 
+
+![Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January 2021 to July 2022, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203178003-84e3bc3e-c428-4292-8988-b758f53da1ea.jpg)
+
+## Impact of Nutrient Levels 
 
 ![Figure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).](https://user-images.githubusercontent.com/67389727/203613957-a0a160c9-323a-4723-aac0-06bc15ab31af.jpg)
 
@@ -11,33 +15,3 @@ title: Phytoplankton Community Composition
 ![Figure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.](https://user-images.githubusercontent.com/67389727/203446752-027c744e-4d92-4984-b705-d7f84a86fc0e.jpg)
 
 ![Figure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date.](https://user-images.githubusercontent.com/67389727/203446758-4e3a71a9-8a1f-453c-851a-0522f20209d5.jpg)
-
-```{r setup, include=FALSE}
-
-install.packages("slickR")
-library(slickR)
-
-```
-
-```{r echo=FALSE} 
-
-paths <- c(
-  "https://user-images.githubusercontent.com/67389727/202547401-8a69120b-14dc-4bd3-8d75-3ca8eebe71b9.jpg",
-  "https://user-images.githubusercontent.com/67389727/202547412-eec82fbe-dacc-4722-a4bb-9da32649ac1d.jpg",
-  "https://user-images.githubusercontent.com/67389727/202547418-bcd8aa90-58ef-4e48-9c60-4af5140cad0a.jpg",
-  "https://user-images.githubusercontent.com/67389727/202547434-c31f0f85-ae9f-437e-b10a-7beb6d3b2fe9.jpg",
-  "https://user-images.githubusercontent.com/67389727/202547453-72d50fa5-ddce-4cdb-912d-a7f8e95fb0eb.jpg"
-)
-
-names <- c(
-  "Thalassiosira",
-  "Ceratium longipes, Dinophysis, & Pseudo-nitzschia",
-  "Leptocylindrus",
-  "Pseudo-nitzschia",
-  "Chaetoceros"
-  )
-  
-slickR(obj=paths, height = 250, width = "75%") %synch%
-( slickR(obj=names, slideType = 'p') + settings(arrows = FALSE) )
-
-```
