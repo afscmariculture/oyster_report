@@ -29,7 +29,6 @@ slickR(obj=paths_hab, height = 250, width = 350) %synch%
 ( slickR(obj=names_hab, slideType = 'p') + settings(arrows = FALSE) )
 
 ```
-
 ## Common Dinoflagellate Species
 
 ```{r echo=FALSE} 
@@ -38,7 +37,7 @@ paths_dino <- c(
   "https://user-images.githubusercontent.com/67389727/203640552-e09c267e-e89c-470c-a393-21feaa85fe82.jpg",
   "https://user-images.githubusercontent.com/67389727/203640549-a805340c-11f9-4c35-9cf5-fa2d9348c549.jpg",
   "https://user-images.githubusercontent.com/67389727/203640556-3bc47fe4-9abb-4ed6-b09c-1b4337c6730c.jpg",
-  "https://user-images.githubusercontent.com/67389727/203640567-68ef8991-f268-4ffd-9c4e-0a875eee20a6.jpg"
+  "https://user-images.githubusercontent.com/67389727/203645837-b76102dc-09f6-45b5-89b2-42d5bb8eabea.jpg"
 )
 
 names_dino <- c(
@@ -52,7 +51,6 @@ slickR(obj=paths_dino, height = 250, width = 350) %synch%
 ( slickR(obj=names_dino, slideType = 'p') + settings(arrows = FALSE) )
 
 ```
-
 ## Common Diatom Species
 
 ```{r echo=FALSE} 
