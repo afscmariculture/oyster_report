@@ -39,7 +39,7 @@ website:
         text: Phytoplankton Community Composition
       - href: content/oysters.qmd
         text: Oyster Health and Toxicity
-      - href: content/phytoplankton_photos.qmd
+      - href: content/phyto_photos.qmd
         text: Phytoplankton Photos
       - href: content/acknowledgements.qmd
         text: Acknowledgements
