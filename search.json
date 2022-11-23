@@ -25,7 +25,14 @@
     "href": "content/phytoplankton.html",
     "title": "Phytoplankton Community Composition",
     "section": "",
-    "text": "Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 5. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with phosphate levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.\n\n\n\n\n\nFigure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date."
+    "text": "Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January 2021 to July 2022, at 1m (A) and 5m (B)."
+  },
+  {
+    "objectID": "content/phytoplankton.html#impact-of-nutrient-levels",
+    "href": "content/phytoplankton.html#impact-of-nutrient-levels",
+    "title": "Phytoplankton Community Composition",
+    "section": "Impact of Nutrient Levels",
+    "text": "Impact of Nutrient Levels\n\n\n\nFigure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 5. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with phosphate levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.\n\n\n\n\n\nFigure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date."
   },
   {
     "objectID": "content/oysters.html",
