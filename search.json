@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "content/phytoplankton.html",
-    "href": "content/phytoplankton.html",
-    "title": "Phytoplankton Community Composition",
-    "section": "",
-    "text": "Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January 2021 to July 2022, at 1m (A) and 5m (B)."
-  },
-  {
-    "objectID": "content/phytoplankton.html#impact-of-nutrient-levels",
-    "href": "content/phytoplankton.html#impact-of-nutrient-levels",
-    "title": "Phytoplankton Community Composition",
-    "section": "Impact of Nutrient Levels",
-    "text": "Impact of Nutrient Levels\n\n\n\nFigure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 5. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with phosphate levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.\n\n\n\n\n\nFigure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date."
-  },
-  {
-    "objectID": "content/environmental_conditions.html",
-    "href": "content/environmental_conditions.html",
-    "title": "Environmental Conditions",
-    "section": "",
-    "text": "Environmental conditions are monitored at Salty Lady Seafood, an oyster farm in Bridget Cove (see map above), about 35 miles north of downtown Juneau, AK. As a high-latitude estuarine system, surrounded by coastal temperate rainforest, this area experiences a wide range of environmental conditions (Table 1).\nTable 1. Summary statistics (minimum, mean, and maximum) of air temperature (°C), water temperature (°C) at 1 and 5 meters, and salinity (ppt) at 1 and 5 meters from October 2018 to October 2022.\n\n\n\nVariable\nMinimum\nMean\nMaximum\n\n\n\n\nAir Temperature (C)\n-3.8\n10.9\n24.4\n\n\n1m Water Temperature (C)\n3.4\n10.3\n18.2\n\n\n5m Water Temperature (C)\n3.4\n9.8\n15.5\n\n\n1m Salinity (ppt)\n5.0\n20.8\n34.0\n\n\n5m Salinity (ppt)\n11.5\n23.7\n36.0"
-  },
-  {
-    "objectID": "content/environmental_conditions.html#seasonal-variation",
-    "href": "content/environmental_conditions.html#seasonal-variation",
-    "title": "Environmental Conditions",
-    "section": "Seasonal Variation",
-    "text": "Seasonal Variation\nEnvironmental variation at Bridget Cove follows seasonal patterns. Air temperatures are lower in winter and higher in summer, with weather remaining variable throughout the year (Figure 1). Similar to air temperature, water temperature at both 1 and 5 meters is lower in winter and higher in summer (Figure 2). Salinity follows the opposite pattern; salinity is lower in the summer due to high rainfall and glacial runoff, and higher in the winter when many of the freshwater input sources are frozen (Figure 2).\n\n\n\nFigure 1. Timeseries from October 2018 to October 2022 of air temperature (°C), with points colored by weather.\n\n\n\n\n\nFigure 2. Timeseries from October 2018 to October 2022 of water temperature (°C) and salinity (ppt) at 1m (A) and 5m (B)."
-  },
-  {
-    "objectID": "content/oysters.html",
-    "href": "content/oysters.html",
-    "title": "Oyster Health and Toxicity",
-    "section": "",
-    "text": "There is high variation in both lipid content and PSP toxin levels in oyster tissue, especially in late summer and early fall of 2022 (Figure 8). The two have a significant inverse relationship (p<0.05, R2=0.22), with lower lipid content and higher toxin levels, most noticeable in early summer 2022 (Figure 8).\n\n\n\nFigure 8. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May to October 2022."
-  },
-  {
-    "objectID": "content/oysters.html#impact-of-phytoplankton-community-and-environmental-conditions",
-    "href": "content/oysters.html#impact-of-phytoplankton-community-and-environmental-conditions",
-    "title": "Oyster Health and Toxicity",
-    "section": "Impact of Phytoplankton Community and Environmental Conditions",
-    "text": "Impact of Phytoplankton Community and Environmental Conditions\nLipid content and toxin levels in oyster tissues do not appear to be strongly impacted by variation in phytoplankton community composition (Figure 9), although there is a negative relationship between dinoflagellate counts and toxin levels in oyster tissue (p<0.05, R2=0.35). Variation in phytoplankton community composition is partly driven by season (p=0.001) along NMDS1 and by environmental conditions (p<0.01) along NMDS2 (Figure 9). Environmental conditions also display significant linear relationships with lipid content and toxin levels in oyster tissue. Toxin levels have a negative relationship temperature (p<0.01, R2=0.31) and a positive relationship with salinity (p<0.001, R2=0.68), while lipid content has a marginally significant positive relationship with temperature (p<0.1, R2=0.15).\n\n\n\nFigure 9. NMDS on phytoplankton community data from May to October 2022, with significant environmental variables overlaid as vectors. The shape of each point displays season, with points colored by either lipid content (%) in oyster tissue (A) or PSP toxin levels (ug/100g) in oyster tissue (B) from the same date."
-  },
-  {
-    "objectID": "content/acknowledgements.html",
-    "href": "content/acknowledgements.html",
-    "title": "Acknowledgments",
-    "section": "",
-    "text": "This website was generated from the NOAA-quarto-simple template from NMFS Open Science, which was based on the quarto-website-tutorial from Openscapes."
-  },
-  {
-    "objectID": "content/phyto_photos.html#common-dinoflagellate-species",
-    "href": "content/phyto_photos.html#common-dinoflagellate-species",
-    "title": "Phytoplankton Photos",
-    "section": "Common Dinoflagellate Species",
-    "text": "Common Dinoflagellate Species"
-  },
-  {
-    "objectID": "content/phyto_photos.html#common-diatom-species",
-    "href": "content/phyto_photos.html#common-diatom-species",
-    "title": "Phytoplankton Photos",
-    "section": "Common Diatom Species",
-    "text": "Common Diatom Species\nReference:"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Long-term Monitoring at a Southeast Alaska Oyster Farm",
@@ -82,5 +19,68 @@
     "title": "Long-term Monitoring at a Southeast Alaska Oyster Farm",
     "section": "About the Project",
     "text": "About the Project\nMariculture is a rapidly growing industry in Alaska, with farmed Pacific oysters (Magallana gigas) currently significantly contributing to this industry’s profit. However, there are no wild oysters in Alaska and the high-latitude estuarine environment of southeast Alaska differs greatly from many other areas in the country where oysters are currently farmed. Therefore, it is important to determine environmental factors that influence oyster health to optimize growing conditions at existing oyster farms and to aid in site selection for future farms as the industry grows. Another challenge associated with farmed oysters is harmful algal blooms (HABs), with paralytic shellfish poisoning (PSP) from Alexandrium spp. diatoms being of particular concern for public health in the region. Determining which factors contribute most strongly to the health of farmed oysters, as well as to toxin levels in oyster tissue, is critical in allowing oyster mariculture to expand in a safe and profitable way in southeast Alaska.\nAs part of an ongoing HAB monitoring project, water column and oyster tissue sampling occurs weekly from March to October, and monthly from November to February, at a local oyster farm in Juneau, Alaska. This project is funded by the NOAA Office of Aquaculture, and collaborators include staff at the NOAA Alaska Fisheries Science Center, Alaska Sea Grant State Fellows, students at the University of Alaska Fairbanks College of Fisheries and Ocean Sciences, NOAA Hollings Scholars, and the owner and employees of the oyster farm, Salty Lady Seafood.\nData have been collected since 2018, and include the following:\n\nWater column parameters (temperature, salinity, nutrient concentrations, and chlorophyll levels) at 1 meter and 5 meter depths\nEnvironmental conditions (season, air temperature, weather, tide height, and wind speed and direction)\nPSP toxin levels in oyster tissue and in the water column at 1 and 5 meters\nLipid content and fatty acid composition in oyster tissue\nPhytoplankton community composition via a plankton net tow and phytoplankton counts in water samples from 1 and 5 meters"
+  },
+  {
+    "objectID": "content/phytoplankton.html",
+    "href": "content/phytoplankton.html",
+    "title": "Phytoplankton Community Composition",
+    "section": "",
+    "text": "Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January 2021 to July 2022, at 1m (A) and 5m (B)."
+  },
+  {
+    "objectID": "content/phytoplankton.html#impact-of-nutrient-levels",
+    "href": "content/phytoplankton.html#impact-of-nutrient-levels",
+    "title": "Phytoplankton Community Composition",
+    "section": "Impact of Nutrient Levels",
+    "text": "Impact of Nutrient Levels\n\n\n\nFigure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 5. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with phosphate levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.\n\n\n\n\n\nFigure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date."
+  },
+  {
+    "objectID": "content/oysters.html",
+    "href": "content/oysters.html",
+    "title": "Oyster Health and Toxicity",
+    "section": "",
+    "text": "There is high variation in both lipid content and PSP toxin levels in oyster tissue, especially in late summer and early fall of 2022 (Figure 8). The two have a significant inverse relationship (p<0.05, R2=0.22), with lower lipid content and higher toxin levels, most noticeable in early summer 2022 (Figure 8).\n\n\n\nFigure 8. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May to October 2022."
+  },
+  {
+    "objectID": "content/oysters.html#impact-of-phytoplankton-community-and-environmental-conditions",
+    "href": "content/oysters.html#impact-of-phytoplankton-community-and-environmental-conditions",
+    "title": "Oyster Health and Toxicity",
+    "section": "Impact of Phytoplankton Community and Environmental Conditions",
+    "text": "Impact of Phytoplankton Community and Environmental Conditions\nLipid content and toxin levels in oyster tissues do not appear to be strongly impacted by variation in phytoplankton community composition (Figure 9), although there is a negative relationship between dinoflagellate counts and toxin levels in oyster tissue (p<0.05, R2=0.35). Variation in phytoplankton community composition is partly driven by season (p=0.001) along NMDS1 and by environmental conditions (p<0.01) along NMDS2 (Figure 9). Environmental conditions also display significant linear relationships with lipid content and toxin levels in oyster tissue. Toxin levels have a negative relationship temperature (p<0.01, R2=0.31) and a positive relationship with salinity (p<0.001, R2=0.68), while lipid content has a marginally significant positive relationship with temperature (p<0.1, R2=0.15).\n\n\n\nFigure 9. NMDS on phytoplankton community data from May to October 2022, with significant environmental variables overlaid as vectors. The shape of each point displays season, with points colored by either lipid content (%) in oyster tissue (A) or PSP toxin levels (ug/100g) in oyster tissue (B) from the same date."
+  },
+  {
+    "objectID": "content/environmental_conditions.html",
+    "href": "content/environmental_conditions.html",
+    "title": "Environmental Conditions",
+    "section": "",
+    "text": "Environmental conditions are monitored at Salty Lady Seafood, an oyster farm in Bridget Cove (see map above), about 35 miles north of downtown Juneau, AK. As a high-latitude estuarine system, surrounded by coastal temperate rainforest, this area experiences a wide range of environmental conditions (Table 1).\nTable 1. Summary statistics (minimum, mean, and maximum) of air temperature (°C), water temperature (°C) at 1 and 5 meters, and salinity (ppt) at 1 and 5 meters from October 2018 to October 2022.\n\n\n\nVariable\nMinimum\nMean\nMaximum\n\n\n\n\nAir Temperature (C)\n-3.8\n10.9\n24.4\n\n\n1m Water Temperature (C)\n3.4\n10.3\n18.2\n\n\n5m Water Temperature (C)\n3.4\n9.8\n15.5\n\n\n1m Salinity (ppt)\n5.0\n20.8\n34.0\n\n\n5m Salinity (ppt)\n11.5\n23.7\n36.0"
+  },
+  {
+    "objectID": "content/environmental_conditions.html#seasonal-variation",
+    "href": "content/environmental_conditions.html#seasonal-variation",
+    "title": "Environmental Conditions",
+    "section": "Seasonal Variation",
+    "text": "Seasonal Variation\nEnvironmental variation at Bridget Cove follows seasonal patterns. Air temperatures are lower in winter and higher in summer, with weather remaining variable throughout the year (Figure 1). Similar to air temperature, water temperature at both 1 and 5 meters is lower in winter and higher in summer (Figure 2). Salinity follows the opposite pattern; salinity is lower in the summer due to high rainfall and glacial runoff, and higher in the winter when many of the freshwater input sources are frozen (Figure 2).\n\n\n\nFigure 1. Timeseries from October 2018 to October 2022 of air temperature (°C), with points colored by weather.\n\n\n\n\n\nFigure 2. Timeseries from October 2018 to October 2022 of water temperature (°C) and salinity (ppt) at 1m (A) and 5m (B)."
+  },
+  {
+    "objectID": "content/phyto_photos.html#common-dinoflagellate-species",
+    "href": "content/phyto_photos.html#common-dinoflagellate-species",
+    "title": "Phytoplankton Photos",
+    "section": "Common Dinoflagellate Species",
+    "text": "Common Dinoflagellate Species"
+  },
+  {
+    "objectID": "content/phyto_photos.html#common-diatom-species",
+    "href": "content/phyto_photos.html#common-diatom-species",
+    "title": "Phytoplankton Photos",
+    "section": "Common Diatom Species",
+    "text": "Common Diatom Species\n   \nReference:"
+  },
+  {
+    "objectID": "content/acknowledgements.html",
+    "href": "content/acknowledgements.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This website was generated from the NOAA-quarto-simple template from NMFS Open Science, which was based on the quarto-website-tutorial from Openscapes."
   }
 ]
