@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://afscmariculture.github.io/oyster_report/index.html</loc>
-    <lastmod>2022-11-23T20:25:51.877Z</lastmod>
-  </url>
-  <url>
     <loc>https://afscmariculture.github.io/oyster_report/content/phytoplankton.html</loc>
-    <lastmod>2022-11-23T20:25:54.257Z</lastmod>
-  </url>
-  <url>
-    <loc>https://afscmariculture.github.io/oyster_report/content/oysters.html</loc>
-    <lastmod>2022-11-23T20:25:54.749Z</lastmod>
+    <lastmod>2022-11-23T20:32:55.060Z</lastmod>
   </url>
   <url>
     <loc>https://afscmariculture.github.io/oyster_report/content/environmental_conditions.html</loc>
-    <lastmod>2022-11-23T20:25:55.201Z</lastmod>
+    <lastmod>2022-11-23T20:32:56.640Z</lastmod>
   </url>
   <url>
-    <loc>https://afscmariculture.github.io/oyster_report/content/phyto_photos.html</loc>
-    <lastmod>2022-11-23T20:26:26.994Z</lastmod>
+    <loc>https://afscmariculture.github.io/oyster_report/content/oysters.html</loc>
+    <lastmod>2022-11-23T20:32:57.284Z</lastmod>
   </url>
   <url>
     <loc>https://afscmariculture.github.io/oyster_report/content/acknowledgements.html</loc>
-    <lastmod>2022-11-23T20:26:27.426Z</lastmod>
+    <lastmod>2022-11-23T20:32:57.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://afscmariculture.github.io/oyster_report/content/phyto_photos.html</loc>
+    <lastmod>2022-11-23T20:33:22.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://afscmariculture.github.io/oyster_report/index.html</loc>
+    <lastmod>2022-11-23T20:33:22.813Z</lastmod>
   </url>
 </urlset>
