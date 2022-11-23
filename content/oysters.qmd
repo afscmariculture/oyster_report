@@ -2,6 +2,6 @@
 title: Oyster Health and Toxicity
 ---
 
-![Figure 8. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May 2022 to October 2022.](https://user-images.githubusercontent.com/67389727/202308224-f1360c2d-8023-4670-b195-d01be4178337.jpg)
+![Figure 8. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May to October 2022.](https://user-images.githubusercontent.com/67389727/202308224-f1360c2d-8023-4670-b195-d01be4178337.jpg)
 
-![Figure 9. NMDS on phytoplankton community data from May to October 2022, with significant environmental variables overlaid as vectors. The shape of each point displays season, and points are colored by either lipid content (%) in oyster tissue (A) or PSP toxin levels (ug/100g) in oyster tissue (B) collected from the same date.](https://user-images.githubusercontent.com/67389727/203434646-553617a4-1247-4735-a662-41542e958c66.jpg)
+![Figure 9. NMDS on phytoplankton community data from May to October 2022, with significant environmental variables overlaid as vectors. The shape of each point displays season, with points colored by either lipid content (%) in oyster tissue (A) or PSP toxin levels (ug/100g) in oyster tissue (B) from the same date.](https://user-images.githubusercontent.com/67389727/203434646-553617a4-1247-4735-a662-41542e958c66.jpg)
