@@ -20,6 +20,20 @@ library(slickR)
 ```
 
 ```{r echo=FALSE} 
+paths_bar <- c(
+  "https://user-images.githubusercontent.com/67389727/203448875-57052e83-9fc4-4692-b06d-87bb0b6c3c53.png",
+  "https://user-images.githubusercontent.com/67389727/203449455-8ae4731e-3397-4a6e-ac3b-ec77e62014af.png",
+)
+names_bar <- c(
+  "Figure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).",
+  "Figure 5. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as "other genera," from January 2021 to October 2022, with phosphate levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).",
+  )
+  
+slickR(obj=paths_bar, height = 500, width = "75%") %synch%
+( slickR(obj=names_bar, slideType = 'p') + settings(arrows = FALSE) )
+```
+
+```{r echo=FALSE} 
 
 paths <- c(
   "https://user-images.githubusercontent.com/67389727/202547401-8a69120b-14dc-4bd3-8d75-3ca8eebe71b9.jpg",
