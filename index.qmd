@@ -8,7 +8,7 @@ page-layout: full
 
 ## Table of Contents
 
-[About](https://afscmariculture.github.io/oyster_report/#about)
+[About the Project](https://afscmariculture.github.io/oyster_report/#about)
 
 [Environmental Conditions](https://afscmariculture.github.io/oyster_report/content/environmental_conditions.html)
 
@@ -16,7 +16,7 @@ page-layout: full
 
 [Oyster Health and Toxicity](https://afscmariculture.github.io/oyster_report/content/oysters.html)
 
-## About
+## About the Project
 
 Mariculture is a rapidly growing industry in Alaska, with farmed Pacific oysters (*Magallana gigas*) currently significantly contributing to this industry’s profit. However, there are no wild oysters in Alaska and the high-latitude estuarine environment of southeast Alaska differs greatly from many other areas in the country where oysters are currently farmed. Therefore, it is important to determine environmental factors that influence oyster health to optimize growing conditions at existing oyster farms and to aid in site selection for future farms as the industry grows. Another challenge associated with farmed oysters is harmful algal blooms (HABs), with paralytic shellfish poisoning (PSP) from *Alexandrium spp.* diatoms being of particular concern for public health in the region. Determining which factors contribute most strongly to the health of farmed oysters, as well as to toxin levels in oyster tissue, is critical in allowing oyster mariculture to expand in a safe and profitable way in southeast Alaska. 
 
