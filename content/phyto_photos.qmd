@@ -10,66 +10,51 @@ library(slickR)
 ```
 
 ## Harmful Algal Bloom (HAB) Species
-
 ```{r echo=FALSE} 
-
 paths_hab <- c(
   "https://user-images.githubusercontent.com/67389727/203640485-5109e208-8872-437a-abff-3bc33d1eb7a1.jpg",
   "https://user-images.githubusercontent.com/67389727/203640490-858ee131-4058-4af9-98e9-3f97b07adcbe.jpg",
   "https://user-images.githubusercontent.com/67389727/203640497-644f66bd-5da2-4905-82cc-322025454d54.jpg"
 )
-
 names_hab <- c(
   "Alexandrium sp.",
   "Dinophysis sp.",
   "Pseudo-nitzschia sp."
-  )
-  
+  ) 
 slickR(obj=paths_hab, height = 250, width = 350) %synch%
 ( slickR(obj=names_hab, slideType = 'p') + settings(arrows = FALSE) )
-
 ```
 ## Common Dinoflagellate Species
-
 ```{r echo=FALSE} 
-
 paths_dino <- c(
   "https://user-images.githubusercontent.com/67389727/203640552-e09c267e-e89c-470c-a393-21feaa85fe82.jpg",
   "https://user-images.githubusercontent.com/67389727/203640549-a805340c-11f9-4c35-9cf5-fa2d9348c549.jpg",
   "https://user-images.githubusercontent.com/67389727/203640556-3bc47fe4-9abb-4ed6-b09c-1b4337c6730c.jpg",
   "https://user-images.githubusercontent.com/67389727/203645837-b76102dc-09f6-45b5-89b2-42d5bb8eabea.jpg"
 )
-
 names_dino <- c(
   "Ceratium fusus",
   "Ceratium longipes",
   "Heterocapsa sp.",
   "Protoperidinium sp."
   )
-  
 slickR(obj=paths_dino, height = 250, width = 350) %synch%
 ( slickR(obj=names_dino, slideType = 'p') + settings(arrows = FALSE) )
-
 ```
 ## Common Diatom Species
-
 ```{r echo=FALSE} 
-
 paths_diatom <- c(
   "https://user-images.githubusercontent.com/67389727/203640608-835da107-f66b-4f6b-b510-3b85bb2e38f5.jpg",
   "https://user-images.githubusercontent.com/67389727/203640621-b8454f91-65a4-4be8-9572-e61fdb7b3c08.jpg",
   "https://user-images.githubusercontent.com/67389727/203640634-1542bf75-6c08-42b4-8789-f62444de32f9.jpg",
   "https://user-images.githubusercontent.com/67389727/203640614-4978d394-4c40-4e77-99e8-77e60375018e.jpg"
 )
-
 names_diatom <- c(
   "Chaetoceros sp.",
   "Skeletonema sp.",
   "Thalassionema sp.",
   "Thalassiosira sp."
   )
-  
 slickR(obj=paths_diatom, height = 250, width = 350) %synch%
 ( slickR(obj=names_diatom, slideType = 'p') + settings(arrows = FALSE) )
-
 ```
