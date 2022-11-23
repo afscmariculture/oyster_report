@@ -25,14 +25,14 @@
     "href": "content/phytoplankton.html",
     "title": "Phytoplankton Community Composition",
     "section": "",
-    "text": "Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 4. StackedBar_Nitrite\n\n\n\n\n\nFigure 5. StackedBar_Phosphate\n\n\n\n\n\nFigure 6. NMDS_Nitrite\n\n\n\n\n\nFigure 7. NMDS_Phosphate"
+    "text": "Figure 3. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with chlorophyll levels (ug/L) overlaid for January to July 2022, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 4. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with nitrite levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 5. Stacked bar plot of counts of the 5 most abundant phytoplankton genera, as well as “other genera,” from January 2021 to October 2022, with phosphate levels (uM) overlaid for January to December 2021, at 1m (A) and 5m (B).\n\n\n\n\n\nFigure 6. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by nitrite levels (uM) from the same depth and date.\n\n\n\n\n\nFigure 7. NMDS on phytoplankton community data from January to December 2021 at 1m (A) and 5m (B), with points colored by phosphate levels (uM) from the same depth and date."
   },
   {
     "objectID": "content/oysters.html",
     "href": "content/oysters.html",
     "title": "Oyster Health and Toxicity",
     "section": "",
-    "text": "Figure 7. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May 2022 to October 2022.\n\n\n\n\n\nFigure 8. NMDS on phytoplankton community data from May to October 2022, with significant environmental variables overlaid as vectors. The shape of each point displays season, and points are colored by either lipid content (%) in oyster tissue (A) or PSP toxin levels (ug/100g) in oyster tissue (B) collected from the same date."
+    "text": "Figure 8. Lipid content (%) and PSP toxin levels (ug/100g) in oyster tissue samples from May 2022 to October 2022.\n\n\n\n\n\nFigure 9. NMDS on phytoplankton community data from May to October 2022, with significant environmental variables overlaid as vectors. The shape of each point displays season, and points are colored by either lipid content (%) in oyster tissue (A) or PSP toxin levels (ug/100g) in oyster tissue (B) collected from the same date."
   },
   {
     "objectID": "content/environmental_conditions.html",
