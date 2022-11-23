@@ -16,7 +16,7 @@ page-layout: full
 
 [Oyster Health and Toxicity](https://afscmariculture.github.io/oyster_report/content/oysters.html)
 
-[Phytoplankton Photos](https://afscmariculture.github.io/oyster_report/content/phytoplankton_photos.html)
+[Phytoplankton Photos](https://afscmariculture.github.io/oyster_report/content/phyto_photos.html)
 
 ## About the Project
 
