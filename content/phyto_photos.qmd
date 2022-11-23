@@ -21,7 +21,7 @@ names_hab <- c(
   "Dinophysis sp.",
   "Pseudo-nitzschia sp."
   ) 
-slickR(obj=paths_hab) %synch%
+slickR(obj=paths_hab, height = 250, width = 350) %synch%
 ( slickR(obj=names_hab, slideType = 'p') + settings(arrows = FALSE) )
 ```
 ## Common Dinoflagellate Species
