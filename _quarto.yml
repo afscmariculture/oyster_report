@@ -3,7 +3,7 @@ project:
 
 website: 
   page-navigation: true
-  title: "Long-term Monitoring at an Oyster Farm in Juneau, AK" 
+  title: "Long-term Monitoring at an Oyster Farm in Southeast AK" 
   site-url: "https://afscmariculture.github.io/oyster_report/" 
   repo-url: "https://github.com/afscmariculture/oyster_report.git"
   repo-actions: [edit, source, issue]
