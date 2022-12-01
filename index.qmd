@@ -4,7 +4,7 @@ subtitle: "Determining Environmental Drivers of Harmful Algal Blooms (HABs) and 
 page-layout: full
 ---
 
-![Oyster Farm](https://user-images.githubusercontent.com/67389727/202272356-1fc9fd67-623b-44e2-a18f-ab5d7958a96e.jpg)
+![Salty Lady Seafood Oyster Farm in Juneau, AK](https://user-images.githubusercontent.com/67389727/202272356-1fc9fd67-623b-44e2-a18f-ab5d7958a96e.jpg)
 
 ## Table of Contents
 
