@@ -5,6 +5,6 @@ title: Oyster Curriculum
 The attached lessons and activities on Pacific oysters and oyster mariculture in Alaska were developed for grades K-2 and 3-5 by staff at the NOAA Alaska Fisheries Science Center.
 
 
-### K-2 Curriculum:
+### [K-2 Curriculum](https://github.com/afscmariculture/oyster_report/files/11657093/PacificOysters_K-2.1.pdf)
 
-### 3-5 Curriculum:
+### [3-5 Curriculum](https://github.com/afscmariculture/oyster_report/files/11657094/PacificOysters_3-5.2.pdf)
