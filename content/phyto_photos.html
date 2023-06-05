@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.361">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -59,10 +59,11 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
-<script src="../site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="../site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
 <script src="../site_libs/jquery-3.4.1/jquery-3.4.1.min.js"></script>
 <script src="../site_libs/jquery-migrate-3.1.0/jquery-migrate-3.1.0.min.js"></script>
 <link href="../site_libs/slick-1.8.1/slick/slick.css" rel="stylesheet">
@@ -70,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/slick-1.8.1/slick/slick.min.js"></script>
 <script src="../site_libs/css-resize-1.2.1/ResizeSensor.js"></script>
 <script src="../site_libs/css-resize-1.2.1/ElementQueries.js"></script>
-<link href="../site_libs/slickR-0.0.1/slick.css" rel="stylesheet">
-<link href="../site_libs/slickR-0.0.1/slick-theme.css" rel="stylesheet">
-<script src="../site_libs/slickR-0.0.1/slickR.js"></script>
+<link href="../site_libs/slickR-0.0.2/slick.css" rel="stylesheet">
+<link href="../site_libs/slickR-0.0.2/slick-theme.css" rel="stylesheet">
+<script src="../site_libs/slickR-0.0.2/slickR.js"></script>
 
 
 </head>
@@ -81,11 +82,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Phytoplankton Photos</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/phyto_photos.html">Phytoplankton Photos</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -93,57 +99,64 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="https://user-images.githubusercontent.com/67389727/202267118-43e3d083-46d2-456c-99bf-11bf3aae7160.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center" title="NOAA Alaska Fisheries Science Center" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/afscmariculture" title="AFSC Mariculture Team" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+    <a href="https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center" title="NOAA Alaska Fisheries Science Center" class="quarto-navigation-tool px-1" aria-label="NOAA Alaska Fisheries Science Center"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/afscmariculture" title="AFSC Mariculture Team" class="quarto-navigation-tool px-1" aria-label="AFSC Mariculture Team"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link">Home</a>
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/environmental_conditions.html" class="sidebar-item-text sidebar-link">Environmental Conditions</a>
+  <a href="../content/environmental_conditions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Environmental Conditions</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/phytoplankton.html" class="sidebar-item-text sidebar-link">Phytoplankton Community Composition</a>
+  <a href="../content/phytoplankton.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Phytoplankton Community Composition</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/oysters.html" class="sidebar-item-text sidebar-link">Oyster Health and Toxicity</a>
+  <a href="../content/oysters.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Oyster Health and Toxicity</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/phyto_photos.html" class="sidebar-item-text sidebar-link active">Phytoplankton Photos</a>
+  <a href="../content/phyto_photos.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Phytoplankton Photos</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/acknowledgements.html" class="sidebar-item-text sidebar-link">Acknowledgements</a>
+  <a href="../content/acknowledgements.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Acknowledgements</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -161,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Phytoplankton Photos</h1>
+<h1 class="title">Phytoplankton Photos</h1>
 </div>
 
 
@@ -180,8 +193,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="harmful-algal-bloom-hab-species">Harmful Algal Bloom (HAB) Species</h2>
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-67279c762e60819404f1" style="width:350px;height:480px;" class="slickR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-67279c762e60819404f1">{"x":[{"obj":"<div class=\"baseDiv_bump_489334869896993\">\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640485-5109e208-8872-437a-abff-3bc33d1eb7a1.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640490-858ee131-4058-4af9-98e9-3f97b07adcbe.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640497-644f66bd-5da2-4905-82cc-322025454d54.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_489334869896993","slideh":250,"slidew":350,"slickOpts":{"asNavFor":".baseDiv_bump_981277458136901"}},{"obj":"<div class=\"baseDiv_bump_981277458136901\">\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Alexandrium sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Dinophysis sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Pseudo-nitzschia sp.<\/p>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_981277458136901","slideh":"99%","slidew":"95%","slickOpts":{"arrows":false,"asNavFor":".baseDiv_bump_489334869896993"}}],"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-56e845d8e3c1bf154fbc" style="width:350px;height:480px;" class="slickR html-widget "></div>
+<script type="application/json" data-for="htmlwidget-56e845d8e3c1bf154fbc">{"x":[{"obj":"<div class=\"baseDiv_bump_956122914329171\">\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640485-5109e208-8872-437a-abff-3bc33d1eb7a1.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640490-858ee131-4058-4af9-98e9-3f97b07adcbe.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640497-644f66bd-5da2-4905-82cc-322025454d54.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_956122914329171","slideh":250,"slidew":350,"slickOpts":{"asNavFor":".baseDiv_bump_293526891386136"}},{"obj":"<div class=\"baseDiv_bump_293526891386136\">\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Alexandrium sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Dinophysis sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Pseudo-nitzschia sp.<\/p>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_293526891386136","slideh":"99%","slidew":"95%","slickOpts":{"arrows":false,"asNavFor":".baseDiv_bump_956122914329171"}}],"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </section>
@@ -189,8 +202,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="common-dinoflagellate-species">Common Dinoflagellate Species</h2>
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-6ec9dfae2f50332a78f7" style="width:350px;height:480px;" class="slickR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-6ec9dfae2f50332a78f7">{"x":[{"obj":"<div class=\"baseDiv_bump_860957773635164\">\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640552-e09c267e-e89c-470c-a393-21feaa85fe82.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640549-a805340c-11f9-4c35-9cf5-fa2d9348c549.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640556-3bc47fe4-9abb-4ed6-b09c-1b4337c6730c.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203645837-b76102dc-09f6-45b5-89b2-42d5bb8eabea.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_860957773635164","slideh":250,"slidew":350,"slickOpts":{"asNavFor":".baseDiv_bump_211543002165854"}},{"obj":"<div class=\"baseDiv_bump_211543002165854\">\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Ceratium fusus<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Ceratium longipes<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Heterocapsa sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Protoperidinium sp.<\/p>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_211543002165854","slideh":"99%","slidew":"95%","slickOpts":{"arrows":false,"asNavFor":".baseDiv_bump_860957773635164"}}],"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-3b6e0e9fa712d895b30d" style="width:350px;height:480px;" class="slickR html-widget "></div>
+<script type="application/json" data-for="htmlwidget-3b6e0e9fa712d895b30d">{"x":[{"obj":"<div class=\"baseDiv_bump_653665884630755\">\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640552-e09c267e-e89c-470c-a393-21feaa85fe82.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640549-a805340c-11f9-4c35-9cf5-fa2d9348c549.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640556-3bc47fe4-9abb-4ed6-b09c-1b4337c6730c.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203645837-b76102dc-09f6-45b5-89b2-42d5bb8eabea.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_653665884630755","slideh":250,"slidew":350,"slickOpts":{"asNavFor":".baseDiv_bump_948853295994923"}},{"obj":"<div class=\"baseDiv_bump_948853295994923\">\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Ceratium fusus<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Ceratium longipes<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Heterocapsa sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Protoperidinium sp.<\/p>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_948853295994923","slideh":"99%","slidew":"95%","slickOpts":{"arrows":false,"asNavFor":".baseDiv_bump_653665884630755"}}],"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </section>
@@ -198,8 +211,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="common-diatom-species">Common Diatom Species</h2>
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-fbef308a5ed378058614" style="width:350px;height:480px;" class="slickR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-fbef308a5ed378058614">{"x":[{"obj":"<div class=\"baseDiv_bump_56879026722163\">\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640608-835da107-f66b-4f6b-b510-3b85bb2e38f5.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640621-b8454f91-65a4-4be8-9572-e61fdb7b3c08.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640634-1542bf75-6c08-42b4-8789-f62444de32f9.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640614-4978d394-4c40-4e77-99e8-77e60375018e.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_56879026722163","slideh":250,"slidew":350,"slickOpts":{"asNavFor":".baseDiv_bump_599464982515201"}},{"obj":"<div class=\"baseDiv_bump_599464982515201\">\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Chaetoceros sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Skeletonema sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Thalassionema sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Thalassiosira sp.<\/p>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_599464982515201","slideh":"99%","slidew":"95%","slickOpts":{"arrows":false,"asNavFor":".baseDiv_bump_56879026722163"}}],"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-56a47816e4d52589b9c1" style="width:350px;height:480px;" class="slickR html-widget "></div>
+<script type="application/json" data-for="htmlwidget-56a47816e4d52589b9c1">{"x":[{"obj":"<div class=\"baseDiv_bump_922938374336809\">\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640608-835da107-f66b-4f6b-b510-3b85bb2e38f5.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640621-b8454f91-65a4-4be8-9572-e61fdb7b3c08.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640634-1542bf75-6c08-42b4-8789-f62444de32f9.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n  <div>\n    <img src=\"https://user-images.githubusercontent.com/67389727/203640614-4978d394-4c40-4e77-99e8-77e60375018e.jpg\" style=\"width:350px;height:250px;margin-left:auto;margin-right:auto;\"/>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_922938374336809","slideh":250,"slidew":350,"slickOpts":{"asNavFor":".baseDiv_bump_616578126326203"}},{"obj":"<div class=\"baseDiv_bump_616578126326203\">\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Chaetoceros sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Skeletonema sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Thalassionema sp.<\/p>\n  <\/div>\n  <div>\n    <p style=\"width:95%;height:99%;margin-left:auto;margin-right:auto;\">Thalassiosira sp.<\/p>\n  <\/div>\n<\/div>","divName":"baseDiv_bump_616578126326203","slideh":"99%","slidew":"95%","slickOpts":{"arrows":false,"asNavFor":".baseDiv_bump_922938374336809"}}],"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 
@@ -349,9 +362,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -416,6 +443,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -471,6 +584,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© CC-1.0</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
