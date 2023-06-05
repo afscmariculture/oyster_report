@@ -2,9 +2,9 @@
 title: Phytoplankton Community Composition
 ---
 
-## Overview 
+## Overview
 
-Phytoplankton biomass and community composition varies seasonally. The first phytoplankton bloom tends to occur in the late spring, followed by an even larger summer bloom and typically a smaller fall bloom. The spring and summer blooms tend to be dominated by diatoms, while the fall blooms may be dominated by dinoflagellates (Figure 2). In 2021 and 2022, the five most abundant phytoplankton genera were *Chaetoceros*, *Pseudo-nitzschia*, *Skeletonema*, *Thalassionema*, and *Thalassiosira* (Figure 3). 
+Phytoplankton biomass and community composition vary seasonally. The first phytoplankton bloom tends to occur in the late spring, followed by an even larger summer bloom and typically a smaller fall bloom. The spring and summer blooms tend to be dominated by diatoms, while the fall blooms may be dominated by dinoflagellates (Figure 2). In 2021 and 2022, the five most abundant phytoplankton genera were *Chaetoceros*, *Pseudo-nitzschia*, *Skeletonema*, *Thalassionema*, and *Thalassiosira* (Figure 3).
 
 ![Figure 2. Total diatoms, dinoflagellates, and other phytoplankton in Bridget Cove at a 1-meter depth from January 2021 to December 2022.](https://github.com/afscmariculture/oyster_report/assets/67389727/94dffea7-5767-4ced-8211-9084ae810987)
 
