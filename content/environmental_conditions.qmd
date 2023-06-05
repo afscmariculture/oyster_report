@@ -24,6 +24,4 @@ Environmental variation in Bridget Cove follows seasonal patterns (Figure 1). Ai
 
 ![Figure 1. Environmental conditions: air temperature in ℃ (A), water temperature in ℃ (B), salinity in ppt (C), stratification index (D), chlorophyll-a levels in µg/L (E), nitrate levels in µM (F), nitrite levels in µM (G), and phosphate levels in µM (H), measured in Bridget Cove at a 1-meter depth from January 2021 to December 2022. For nitrate (F) and nitrite (G), data below detection limits were imputed (see methods) and the detection limit is displayed as a dashed line.](https://github.com/afscmariculture/oyster_report/assets/67389727/b8cf2cfb-9ac9-4cdb-bf38-227cfae5641b)
 
-![Stacked_Enviro](https://github.com/afscmariculture/oyster_report/assets/67389727/48f84cff-ab6d-4ac7-b27a-5b5a84f11f60)
-
-![Stacked_Enviro](https://github.com/afscmariculture/oyster_report/assets/67389727/a3f87c31-1d3b-4aa2-bf19-0bca7c34e8ce.jpg)
+![Stacked_Enviro](https://github.com/afscmariculture/oyster_report/assets/67389727/d50faef6-20a4-487e-85cd-0abb4981da1b)
