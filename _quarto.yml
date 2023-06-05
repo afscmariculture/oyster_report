@@ -41,6 +41,8 @@ website:
         text: Oyster Health and Toxicity
       - href: content/phyto_photos.qmd
         text: Phytoplankton Photos
+      - href: content/curriculum.qmd
+        text: Oyster Curriculum
       - href: content/acknowledgements.qmd
         text: Acknowledgements
 
