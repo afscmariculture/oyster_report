@@ -8,7 +8,7 @@ title: Environmental Conditions
 
 Environmental conditions are monitored at Salty Lady Seafood, an oyster farm in Bridget Cove (see map above), about 35 miles north of downtown Juneau, AK. As a high-latitude estuarine system, surrounded by coastal temperate rainforest, this area experiences a wide range of environmental conditions (Table 1). 
 
-Table 1. Seasonal means and standard deviations for environmental conditions (air temperature in (&deg;C), water temperature in (&deg;C), salinity in ppt, chlorophyll-a levels in µg/L, nitrate levels in µM, nitrite levels in µM, and phosphate levels in µM) measured in Bridget Cove at a 1-meter depth between January 2021 and December 2022. “NA” means no values are available for that variable in that season; if standard deviation is omitted, only one measurement is available for that variable in that season. 
+Table 1. Seasonal means and standard deviations for environmental conditions (air temperature in &deg;C, water temperature in &deg;C, salinity in ppt, chlorophyll-a levels in µg/L, nitrate levels in µM, nitrite levels in µM, and phosphate levels in µM) measured in Bridget Cove at a 1-meter depth between January 2021 and December 2022. “NA” means no values are available for that variable in that season; if standard deviation is omitted, only one measurement is available for that variable in that season. 
 
 | Variable | Air Temp (C) | Water Temp (C) | Salinity (ppt) | Stratification Index | Chl-a (ug/L) | Nitrate (uM) | Nitrite (uM) | Phosphate (uM) |
 |-------------------------|:--------------:|:--------------:|:--------------------:|:------------:|:------------:|:------------:|:--------------:|
@@ -23,3 +23,7 @@ Table 1. Seasonal means and standard deviations for environmental conditions (ai
 Environmental variation in Bridget Cove follows seasonal patterns (Figure 1). Air and water temperatures are lower in winter and higher in summer. Salinity follows the opposite pattern; salinity is lower in the summer due to high rainfall and glacial runoff, and higher in the winter when many of the freshwater input sources are frozen. Chlorophyll-a levels peak in the spring, are slightly lower in the summer and fall, and quite low in the winter. Nutrient levels are highest in the winter and lowest in the summer. 
 
 ![Figure 1. Environmental conditions: air temperature in ℃ (A), water temperature in ℃ (B), salinity in ppt (C), stratification index (D), chlorophyll-a levels in µg/L (E), nitrate levels in µM (F), nitrite levels in µM (G), and phosphate levels in µM (H), measured in Bridget Cove at a 1-meter depth from January 2021 to December 2022. For nitrate (F) and nitrite (G), data below detection limits were imputed (see methods) and the detection limit is displayed as a dashed line.](https://github.com/afscmariculture/oyster_report/assets/67389727/b8cf2cfb-9ac9-4cdb-bf38-227cfae5641b)
+
+![Stacked_Enviro](https://github.com/afscmariculture/oyster_report/assets/67389727/48f84cff-ab6d-4ac7-b27a-5b5a84f11f60)
+
+![Stacked_Enviro](https://github.com/afscmariculture/oyster_report/assets/67389727/a3f87c31-1d3b-4aa2-bf19-0bca7c34e8ce.jpg)
