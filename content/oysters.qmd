@@ -6,10 +6,10 @@ title: Oyster Health and Toxicity
 
 Lipid content in oyster tissue was lowest in the early spring and increased through the spring and summer, peaking in late summer and early fall. Lipid content began to decline again in the fall.
 
-![Figure 4. Lipid content (%) in oyster tissue samples from May to October 2022.](https://github.com/afscmariculture/oyster_report/assets/67389727/5fb834ab-2f34-4030-912f-599c24abbe3d)
+![Figure 4. Lipid content (%) in oyster tissue samples from May to October 2022.](images/Lipid_Scatter.jpg)
 
 ## PSP Toxins
 
 Paralytic Shellfish Poisoning (PSP) toxins were highest in oyster tissue in the spring, and then declined in the summer before beginning to increase again in the fall. PSP toxins in the water column were fairly low and more variable. They were also highest in the spring, but lowest in the fall.
 
-![Figure 5. PSP toxin levels (µg/100g) in oyster tissue samples (A) and PSP toxin levels (µg/L) in the water column at a 1-meter depth in Bridget Cove in 2022 (May-October for oyster tissue and January-October for water column). PSP toxins were measured using a SeaTox ELISA kit.](https://github.com/afscmariculture/oyster_report/assets/67389727/120c8a81-3852-4a3a-9c01-5b9332883a82)
+![Figure 5. PSP toxin levels (µg/100g) in oyster tissue samples (A) and PSP toxin levels (µg/L) in the water column at a 1-meter depth in Bridget Cove in 2022 (May-October for oyster tissue and January-October for water column). PSP toxins were measured using a SeaTox ELISA kit.](images/All_Tox.jpg)
