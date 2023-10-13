@@ -1,5 +1,5 @@
  
-# Long-term Monitoring at a SE Alaska Oyster Farm
+# Long-term Monitoring at a Southeast Alaska Oyster Farm
 
 ## Determining Environmental Drivers of Harmful Algal Blooms (HABs) and How Environmental Conditions and Phytoplankton Community Composition Impact Oyster Health
 
